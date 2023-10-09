@@ -5,9 +5,9 @@ from selenium.webdriver.support.select import Select
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-#------------------------------------------------------------------------------------
-# Talent Acquisition - Guest Service Profile   (Tokens: 1) ------ RUN ON CHROME BROWSER
-#------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------
+# Talent Acquisition - Guest Service Profile   (Tokens: 1)------ RUN ON CHROME BROWSER on windows OS
+#---------------------------------------------------------------------------------------------------
 
 # Setting chrome driver object
 driver = Chrome()
